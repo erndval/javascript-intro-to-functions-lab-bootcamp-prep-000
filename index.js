@@ -22,7 +22,7 @@ var lowercase = "string"
 lowercase.toLowerCase() === lowercase
 
 var mixedCase = "string"
-mixedCase.toLowercase() === mixedCase
+mixedCase.toLowerCase() === mixedCase
 mixedCase.toUpperCase() === mixedCase
 
 if (string === uppercase) {
