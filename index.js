@@ -26,15 +26,16 @@ var mixedCase = string
 mixedCase.toLowerCase() === mixedCase
 mixedCase.toUpperCase() === mixedCase
 
-if (string === uppercase) {
-  return 'YES INDEED!'
+if (string === 'I love you, Grandma') {
+  return 'I love you, too.'
 }
 
 else if (string === lowercase) {
   return 'I can\'t hear you!'
 }
 
-else (string === 'I love you, Grandma') {
-  return 'I love you, too.'
+else (string === uppercase); {
+  return 'YES INDEED!'
 }
+
 }
