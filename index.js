@@ -21,5 +21,7 @@ uppercase.toUpperCase() === uppercase
 var lowercase = string
 lowercase.toLowerCase() === lowercase
 
-if 
+if (string === uppercase) {
+  return ''
+}
 }
