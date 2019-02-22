@@ -34,7 +34,7 @@ else if (string === lowercase) {
   return 'I can\'t hear you!'
 }
 
-else (string === uppercase); {
+else if (string === uppercase); {
   return 'YES INDEED!'
 }
 
